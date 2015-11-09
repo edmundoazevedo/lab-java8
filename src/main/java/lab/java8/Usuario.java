@@ -1,4 +1,4 @@
-package java8;
+package lab.java8;
 
 public class Usuario {
 	
